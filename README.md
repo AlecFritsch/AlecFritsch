@@ -19,7 +19,7 @@ interface Flokzy {
 const flokzy: Flokzy = {
 	name: "flokzy",
 	age: 19,
-	birthday: new Date(2006, 8, 28)
+	birthday: new Date(2006, 8, 28),
 	company: "Syncwork"
 };
 ```
