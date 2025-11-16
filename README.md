@@ -49,7 +49,7 @@ const sectionName = "MAIN_TOOLS";
 <p>
 <p align="center">
   <!-- https://platane.me/snk/ -->
-  <a href="#"><img src="https://github.com/DavidNiessen/DavidNiessen/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></a>
+  <a href="#"><img src="https://github.com/AlecFritsch/AlecFritsch/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></a>
 
 </p>
 
