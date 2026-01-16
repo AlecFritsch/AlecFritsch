@@ -25,7 +25,7 @@ const flokzy: Flokzy = {
 ```
 
 # 💻Tech Stack
-
+ 
 <!-- https://skillicons.dev -->
 ```ts
 const sectionName = "MAIN_LANGUAGES";
