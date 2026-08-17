@@ -34,7 +34,7 @@ const sectionName = "AI";
 ```ts
 const sectionName = "MAIN_LANGUAGES";
 ```
-[![Main Languages](https://skillicons.dev/icons?i=javascript,typescript,python,java,lua,cpp,cs)](#)
+[![Main Languages](https://skillicons.dev/icons?i=javascript,typescript,python,java,lua,cpp,cs,html,css,bash,powershell)](#)
 ```ts
 const sectionName = "FRAMEWORKS";
 ```
