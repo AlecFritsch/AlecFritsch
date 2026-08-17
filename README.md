@@ -28,17 +28,21 @@ const flokzy: Flokzy = {
  
 <!-- https://skillicons.dev -->
 ```ts
+const sectionName = "AI";
+```
+[![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini,mcp,langchain,n8n)](#)
+```ts
 const sectionName = "MAIN_LANGUAGES";
 ```
-[![Main Languages](https://skillicons.dev/icons?i=javascript,typescript,java,lua,cpp,cs)](#)
+[![Main Languages](https://skillicons.dev/icons?i=javascript,typescript,python,java,lua,cpp,cs)](#)
 ```ts
 const sectionName = "FRAMEWORKS";
 ```
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,spring,unreal,unity)](#)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,nodejs,spring,unreal,unity,fastapi,express,tailwind,reactnative,expo)](#)
 ```ts
 const sectionName = "MAIN_TOOLS";
 ```
-[![Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,cloudflare,git,gcp,aws,github,vscode,docker)](#)
+[![Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,cloudflare,git,gcp,aws,github,vscode,docker,nginx)](#)
 
 <div align="center">
   <h1><b>Socials</b></h1>
